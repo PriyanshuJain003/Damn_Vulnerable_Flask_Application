@@ -57,7 +57,7 @@ This application intentionally demonstrates common web security vulnerabilities 
 
 ```bash
 git clone https://github.com/yourusername/damn-vulnerable-flask-shop.git
-cd damn-vulnerable-flask-shop
+cd Damn_Vulnerable_Flask_Application
 pip install flask
 ```
 
@@ -66,6 +66,7 @@ pip install flask
 ## Usage
 
 ```bash
+cd vuln exp
 python app.py
 ```
 
