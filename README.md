@@ -42,6 +42,7 @@ This application intentionally demonstrates common web security vulnerabilities 
 - Insecure Deserialization (RCE)
 - Security Misconfiguration
 - Sensitive Data Exposure
+- Cross Site Scripting (XSS)
 
 ---
 
