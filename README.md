@@ -1,4 +1,4 @@
-# Damn Vulnerable Flask Shop App
+# Damn Vulnerable Flask  App
 
 A deliberately vulnerable web application built with **Python (Flask)** and **SQLite** for educational, CTF, and penetration-testing purposes.
 
